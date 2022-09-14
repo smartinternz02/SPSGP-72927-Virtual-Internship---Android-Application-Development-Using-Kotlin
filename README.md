@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Akshay Patne</h1>
 <h3 align="center">I am Learning about Java,Python and Front End Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay70577&label=Profile%20views&color=0e75b6&style=flat" alt="akshay70577" /> </p>
 
