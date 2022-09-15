@@ -1,0 +1,4 @@
+#Wed Sep 14 20:14:56 IST 2022
+base.0=F\:\\Android development program\\SPSGP-68275-Virtual-Internship---Android-Application-Development-Using-Kotlin-main\\SPSGP-68275-Virtual-Internship---Android-Application-Development-Using-Kotlin-main\\Grocery App\\Grocery App Project\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
