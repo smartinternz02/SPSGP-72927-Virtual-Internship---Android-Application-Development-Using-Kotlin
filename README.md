@@ -19,4 +19,3 @@ A grocery android app MVVM and Room Database in Kotlin.
 </p>
 
 
-
